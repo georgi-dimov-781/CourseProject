@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuDelete"
+        android:title="Delete"
+        android:icon="@drawable/ic_delete_black_24dp"
+        app:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/menuSignOut"
+        android:title="Sign Out"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/menuExit"
+        android:title="Exit"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        app:showAsAction="never">
+    </item>
+</menu>

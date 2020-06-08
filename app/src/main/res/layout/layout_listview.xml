@@ -1,0 +1,12 @@
+<!-- This layout is used to customize the list layout in the AddressBook activity -->
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:paddingTop="4dip"
+    android:paddingStart="25dip"
+    android:paddingEnd="25dip"
+    android:paddingBottom="4dip"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:textSize="30sp">
+</TextView>
